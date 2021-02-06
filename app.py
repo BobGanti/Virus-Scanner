@@ -9,6 +9,7 @@ from tkinter.messagebox import *
 LARGE_FONT = ('Verdana', 12)
 XLARGE_FONT = ('Verdana', 16)
 labelO = ""
+
 # app set-up
 class VirusTotalReportParser(tk.Tk):
     def __init__(self, *args, **kwargs):
